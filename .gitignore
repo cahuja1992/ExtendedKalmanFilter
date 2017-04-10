@@ -1,6 +1,4 @@
-# silly macOS
-.kalman_tracker_windows
-.DS_Store
+kalman_tracker_windows
 
 # build files
 build/
